@@ -7,3 +7,5 @@ Fiz minha primeira edição do README
 
 corrigi a modificação com defeito, agora está tudo funcionando normalmente!
 Liberado para produção!
+
+pequena correção!
